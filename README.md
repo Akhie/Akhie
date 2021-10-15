@@ -7,6 +7,8 @@
 
 <!--- - 🌱 I’m currently learning **React Js** --->
 
+- 🔥 Visit my portfolio at [https://Akhie.github.io/](https://Akhie.github.io)
+
 - 👨‍💻 All of my projects are available at [https://github.com/Akhie/](https://github.com/Akhie/)
 
 - 📫 How to reach me **akhilesh.yadav200093@gmail.com**
